@@ -31,14 +31,14 @@ Figure 1 shows the AI output of the cartoonified image.
 ## D.   PROJECT STRUCTURE
 
 
-## E   TRAINING THE COVID-19 FACE MASK DETECTION
+## E   DETECTING IMAGES
 
 ## F.  RESULT AND CONCLUSION
 
 
 ## G.   PROJECT PRESENTATION 
 
-[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=gk1Mw4IPrzo "demo")
+[![demo](https://github.com/AfzaAdaw/Artificial-Intelligence-Project/blob/main/videothumbnail.png)](https://www.youtube.com/watch?v=gk1Mw4IPrzo "demo")
 
 
 
