@@ -7,14 +7,14 @@
 **Team Members:** 
 -  Afza Adawiyah Bt Abdul Tahrim
 - Nur Aisya Fatihah Bt Azhar
-- [Nur Syahirah Bt Mohd Izwan Wasandan]
-- [Nur Afiqah Bt Halim]
+- Nur Syahirah Bt Mohd Izwan Wasandan
+- Nur Afiqah Bt Halim
 
 
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
-- [to convert a 3D image into a 2D image]
-- [To change an original image into a new one]
+- to convert a 3D image into a 2D image
+- To change an original image into a new one
 
 
 ##  B. ABSTRACT 
@@ -37,6 +37,7 @@ Figure 1 shows the AI output of the cartoonified image.
 
 
 ## G.   PROJECT PRESENTATION 
+
 
 [![demo](https://github.com/AfzaAdaw/Artificial-Intelligence-Project/blob/main/videothumbnail.png)](https://www.youtube.com/watch?v=gk1Mw4IPrzo "demo")
 
