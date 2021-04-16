@@ -5,7 +5,7 @@
 **Project Title:** Cartoonify image
 
 **Team Members:** 
-- [Afza Adawiyah Bt Abdul Tahrim]
+- [ Afza Adawiyah Bt Abdul Tahrim ]
 - [Nur Aisya Fatihah Bt Azhar]
 - [Nur Syahirah Bt Mohd Izwan Wasandan]
 - [Nur Afiqah Bt Halim]
