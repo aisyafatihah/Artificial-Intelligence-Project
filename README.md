@@ -35,9 +35,20 @@ Figure 1 shows the AI output of the cartoonified image.
 
 ## F.  RESULT AND CONCLUSION
 
+You can convert real life image with OpenCV in real-time using the following steps:
+
+- Open cartoonifyImage.py
+- Open the windows..
+- Choose images from computer
+- Converting the image
+- Save the conrtoonified image
+
 
 ## G.   PROJECT PRESENTATION 
+In this project, we learned how to convert real life image into cartoon using OpenCV.
+We also learned about how to smoothen the lines and masking the images to make it less realistic and cartoonify it.
 
+Other than that, we learned how to import the picture into the program to cartoonify it and enables save option after the conversion.
 
 [![demo](https://github.com/AfzaAdaw/Artificial-Intelligence-Project/blob/main/videothumbnail.png)](https://www.youtube.com/watch?v=gk1Mw4IPrzo "demo")
 
