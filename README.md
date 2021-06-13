@@ -8,7 +8,7 @@
 -  Afza Adawiyah Bt Abdul Tahrim
 - Nur Aisya Fatihah Bt Azhar
 - Nur Syahirah Bt Mohd Izwan Wasandan
-- Nur Afiqah Bt Halim
+- Nur Afiqah 
 
 
 - [ ] **Objectives:**
