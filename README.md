@@ -26,7 +26,9 @@ Cartoon are wildly used in animations films. that it became a source of income a
 Figure 1 shows the AI output of the cartoonified image.
 
 
-## C.  DATASET
+## C.  PROJECT MANAGEMENT PLAN
+
+
 
 ## D.   PROJECT STRUCTURE
 
