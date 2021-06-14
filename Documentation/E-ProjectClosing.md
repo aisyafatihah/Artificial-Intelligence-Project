@@ -1,9 +1,9 @@
 # E. Completing the Project
 
 ## Success Criteria of Project:
--Real life image can be converted to cartoon
--System support image upload from desktop to be processed
--System can save the converted picture 
+- Real life image can be converted to cartoon
+- System support image upload from desktop to be processed
+- System can save the converted picture 
 
 ## Closing Checklist
 
